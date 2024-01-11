@@ -1,0 +1,7 @@
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.exe.config
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.exe
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.pdb
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.csproj.AssemblyReference.cache
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.csproj.CoreCompileInputs.cache
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.exe
+F:\mphasis\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.pdb
